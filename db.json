@@ -1,0 +1,49 @@
+{
+  "jobs": [
+    {
+      "company": "Masai",
+      "title": "Developer",
+      "salary": "10-50k",
+      "description": "Developer needs to have knowledge of react and mongo. kindly apply if interested and hold atleast 5 years of exp.",
+      "location": "Bengaluru",
+      "type": "Full-stack-Developer",
+      "id": 1
+    },
+    {
+      "company": "Masai School ",
+      "title": "IA",
+      "salary": "10-50k",
+      "description": "Teaching students of masai school",
+      "location": "bengaluru",
+      "type": "WFH",
+      "id": 2
+    },
+    {
+      "company": "WIPRO",
+      "title": "Developer",
+      "salary": "10-50k",
+      "description": "Teaching students of masai school",
+      "location": "Dehradun",
+      "type": "WFH",
+      "id": 3
+    },
+    {
+      "company": "Whirlpool",
+      "title": "Developer",
+      "salary": "10-50k",
+      "description": "Teaching students of masai school",
+      "location": "Delhi",
+      "type": "WFH",
+      "id": 4
+    },
+    {
+      "company": "SAmsun",
+      "title": "Developer",
+      "salary": "10-50k",
+      "description": "Teaching students of masai school",
+      "location": "Azamgarh",
+      "type": "WFH",
+      "id": 5
+    }
+  ]
+}

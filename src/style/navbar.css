@@ -1,0 +1,8 @@
+#nav{
+    display: flex;
+    color: blueviolet;
+    background-color: aquamarine;
+    gap:2%;
+    cursor: pointer;
+    justify-content:space-evenly;
+}
